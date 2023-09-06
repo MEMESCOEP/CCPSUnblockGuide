@@ -1,2 +1,5 @@
 # CCPSUnblockGuide
-A guide that shows CCPS students how to bypass the school's IT restrictions.
+A simple guide that shows CCPS students how they can bypass the school's IT restrictions.
+
+<br/>
+Click [here](https://pages.github.com/) to start.
